@@ -38,5 +38,4 @@ Setting options to invalid values, as well as doubling up on hotkeys, may result
 
 ## See also
 * [release notes](release-notes.md)
-* [Nexus page](https://www.nexusmods.com/stardewvalley/mods/6017)
-* [Moddrop page](https://www.moddrop.com/stardew-valley/mods/984775-better-jukebox)
+* [Nexus page](https://www.nexusmods.com/stardewvalley/mods/9340)
