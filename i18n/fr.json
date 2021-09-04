@@ -1,0 +1,4 @@
+{
+    "GlobalConfigSettings:ChangeOnEveryLoad":"Appliquer à chaque chargement",
+    "GlobalConfigSettings:ChangeOnEveryLoadDescription":"Ré-applique les paramètres globaux à chaque chargement de la sauvegarde (et rejoindre une partie multijoueur) au lieu d'uniquement à la création de la ferme."
+}
